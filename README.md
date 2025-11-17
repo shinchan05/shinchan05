@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **ROS**
 
-- 📝 I regularly write articles on [siliconsky.hashnode.dev](siliconsky.hashnode.dev)
+- 📝 I regularly write articles on https://hashnode.com/@Siliconsky
 
 - 📫 How to reach me **reddymanjunath959@gmail.com**
 
