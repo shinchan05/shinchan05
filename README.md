@@ -1,19 +1,79 @@
-<h1 align="center">Hi 👋, I'm Y.Manjunath reddy.</h1>
-<h3 align="center">Embedded Systems | Robotics | Computer Vision Enthusiast</h3>
+# Hi, I'm Manjunath Reddy 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinchan05&label=Profile%20views&color=0e75b6&style=flat" alt="shinchan05" /> </p>
+### Embedded Systems & Robotics Engineer
 
-- 🌱 I’m currently learning **ROS,Python.**
+Engineering graduate with interests in Embedded Systems, Robotics, Automation. I enjoy building systems that combine hardware and software to solve real-world engineering problems.
 
-- 🤝 I’m looking for help with **ROS**
+## Areas of Interest
 
-- 📝 I regularly write articles on https://hashnode.com/@Siliconsky
+* Embedded Systems
+* Robotics
+* Automation
+* Computer Vision
+* IoT
+* ROS
 
-- 📫 How to reach me **reddymanjunath959@gmail.com**
+## Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/reddy-manjunath-9b3476377/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7rE82RmcQoSw4N17Dnd9FQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reddy-manjunath-9b3476377/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bzu9fpdyfq%2bw84fn%2fanpm7q%3d%3d" height="30" width="40" /></a>
+### Programming
 
-</p>
+* C
+* C++
+* Python
 
+### Embedded Systems
+
+* Embedded C
+* PIC Microcontrollers
+* ESP32
+* Arduino
+* UART, SPI, I2C , CAN
+
+### Robotics & Automation
+
+* ROS
+* Gazebo
+* Sensor Integration
+* Control Systems
+
+### Computer Vision
+
+* OpenCV
+
+### Tools & Platforms
+
+* GitHub
+* Linux
+
+## Academic Projects
+
+### Fixed-Wing UAV Development
+
+Worked on UAV-related projects involving electronics integration, testing, and system-level understanding of unmanned aerial vehicles.
+
+### Robotics Projects
+
+Developed academic robotics projects involving sensors, microcontrollers, and autonomous system concepts.
+
+### Embedded Systems Projects
+
+Built microcontroller-based applications involving peripheral interfacing, communication protocols, and real-time control.
+
+## Current Focus
+
+* Strengthening Embedded Systems fundamentals
+* Developing Robotics and ROS projects
+* Building Computer Vision applications using OpenCV
+* Learning industry-oriented software development practices
+
+## Connect With Me
+
+📧 Email: [reddymanjunath959@gmail.com](mailto:reddymanjunath959@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/reddy-manjunath-9b3476377
+
+📝 Hashnode: hashnode.com/@Siliconsky
+
+---
+
+Always learning, building, and improving.
