@@ -26,7 +26,7 @@ Engineering graduate with interests in Embedded Systems, Robotics, Automation. I
 * Embedded C
 * PIC Microcontrollers
 * ESP32
-* Arduino
+* Arduino   
 * UART, SPI, I2C , CAN
 
 ### Robotics & Automation
